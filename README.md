@@ -274,9 +274,7 @@ The ACTA1 gene encodes skeletal muscle alpha-actin, a protein that forms the thi
 
 **3. What did the amino-acid composition chart show? What can it NOT tell you?**
 
-The chart showed the frequency of each of the 20 amino acids in the ACTA1 protein. Isoleucine (I) was the most abundant, with 30 residues, while tryptophan (W) was the least abundant, with 4 residues. However, the chart cannot show the protein's three-dimensional structure, directly measure its activity, or determine how the assigned variant affects muscle function.
-4. What is your fixed ClinVar variant, and what is its current classification and evidence strength?
-The assigned variant is NM_001100.4:c.493G>A (NP_001091.1:p.Val165Met), also known as V165M or, under older numbering, V163M. It is a missense variant that replaces valine with methionine at amino acid position 165. ClinVar classifies it as Pathogenic for autosomal dominant alpha-actinopathy, with review by an expert panel. Supporting evidence includes experimental studies showing altered ACTA1 function, reports of the variant in affected individuals, segregation with disease in a family, its absence from the cited population database, and computational predictions. The REVEL score is 0.961, supporting a potentially damaging effect, although this is computational evidence rather than direct experimental proof. 
+The chart showed the frequency of the 20 amino acids in the ACTA1 protein. Isoleucine (I) was the most abundant, with 30 residues, while tryptophan (W) was the least abundant, with 4 residues. The chart summarizes the protein’s amino-acid composition but does not reveal its three-dimensional structure, directly measure its activity, or determine the variant’s actual effect on muscle function.
 
 **5. What is the scientifically supported mechanism linking this variant to muscle function, and what remains uncertain?**
 
