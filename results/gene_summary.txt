@@ -1,0 +1,6 @@
+Gene symbol: ACTA1
+NCBI Gene ID: 58
+Official name: actin alpha 1, skeletal muscle
+Chromosome: 1
+Transcript: NM_001100.4
+ClinVar Variation ID: 18292
